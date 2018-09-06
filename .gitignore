@@ -1,0 +1,8 @@
+*.txt
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
+log/*.log
+
+#Would log/archive/access.log be ignored? No, because the ignore statement regarding
+#log/*.log does not include intermediate folders (such as archive)
