@@ -1,4 +1,4 @@
-*.txt
+
 assets/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
